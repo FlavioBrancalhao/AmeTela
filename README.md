@@ -1,7 +1,7 @@
 
 # Bem vindo
 
-Esse repositório tem objetivo de criar uma interface em html, css e js 
+Esse repositório tem objetivo de criar uma interface em react html, css e js 
 
 codigo esta disponivel para copia
 
